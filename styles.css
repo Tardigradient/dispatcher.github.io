@@ -54,7 +54,7 @@ html {
   }
 }
 
-p#footerText {
+p.footerText {
   justify-content: center;
   font-size: 10px;
   font-color: #8f8f8f;
