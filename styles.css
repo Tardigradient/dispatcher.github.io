@@ -54,6 +54,10 @@ html {
   }
 }
 
+p#footerText {
+  justify-content: center;
+  size: 10pt;
+
 .dashboard-body {
   display: flex;
   flex-direction: column;
