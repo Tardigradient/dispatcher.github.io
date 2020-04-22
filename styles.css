@@ -57,6 +57,7 @@ html {
 p#footerText {
   justify-content: center;
   font-size: 10px;
+  font-color: #8f8f8f;
 
 .dashboard-body {
   display: flex;
